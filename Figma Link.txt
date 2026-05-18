@@ -1,0 +1,24 @@
+Figma Link:
+https://www.figma.com/proto/UJ3OpKaOvmLYdcinAGD7Dg/Untitled?node-id=18-251&p=f&t=k7MFdOFXlSLYg3ue-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=24%3A41
+
+GitHub Repository Link:
+https://github.com/hasumalkasilva0194-art/ubereats-ui-redesign/tree/main
+
+Project Description:
+
+This project is a UI/UX redesign of the Uber Eats mobile application focused on improving the onboarding and authentication experience. The goal of the redesign was to create a cleaner, more modern, and user-friendly interface by applying better UX principles such as improved visual hierarchy, accessibility, spacing consistency, and intuitive navigation.
+
+During the redesign process, several UX issues in the existing application were identified, including crowded layouts, weak visual hierarchy, and limited accessibility in some interface elements. To solve these issues, the redesigned screens were created with a simplified layout, consistent color palette, improved typography, larger touch targets, and clearer call-to-action buttons to enhance usability and overall user experience.
+
+The project includes multiple mobile app screens such as Splash Screen, Onboarding Screen, Login Screen, Register Screen, and Home Screen. Low-fidelity wireframes were first created to plan the layout and user flow before designing the final high-fidelity interfaces in Figma.
+
+Tools Used:
+- Figma
+- GitHub
+
+Deliverables Included:
+- High-fidelity mobile app screens
+- Low-fidelity wireframes
+- Design system elements
+- Exported PNG screens
+- Public GitHub repository
